@@ -1,0 +1,17 @@
+public class client
+ {
+   GetMessage gm;
+
+   public void startApp()
+
+     throw new Error("Unresolved compilation problems: \n\tdisplay cannot be resolved\n\tform1 cannot be resolved\n\tform1 cannot be resolved\n\ttick1 cannot be resolved\n");
+ }
+ 
+   public void pauseApp()
+   {
+     throw new Error("Unresolved compilation problem: \n");
+   }
+   public void destroyApp(boolean unconditional) {
+     throw new Error("Unresolved compilation problems: \n\tdisplay cannot be resolved\n\tdisplayable cannot be resolved\n");
+ }
+ }
