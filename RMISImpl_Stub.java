@@ -70,7 +70,5 @@ public final class RMISImpl_Stub extends RemoteStub
   }
 }
 
-/* Location:           C:\Users\satish\Downloads\preserve and audit data for security in cloud computing\preserve and audit data for security in cloud computing\code\CloudDataSecurity\
- * Qualified Name:     RMISImpl_Stub
- * JD-Core Version:    0.6.2
- */
+
+
